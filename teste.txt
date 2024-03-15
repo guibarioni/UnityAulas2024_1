@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 	blabla
 poooooooooo
-na verdade o teobaldo esteve aqui!
+na verdade o teobaldo esteve aqui!na verdade o teobaldo esteve aqui!
+=======
+poooooooooo
+>>>>>>> parent of 39b17d1 (Aprimoramento 2)
